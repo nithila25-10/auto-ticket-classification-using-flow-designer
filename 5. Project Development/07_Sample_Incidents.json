@@ -1,0 +1,32 @@
+[
+  {
+    "short_description": "I forgot my password",
+    "expected_classification": "Access",
+    "expected_assignment_group": "IT Service Desk"
+  },
+  {
+    "short_description": "Laptop is not turning on",
+    "expected_classification": "Hardware",
+    "expected_assignment_group": "Hardware Support"
+  },
+  {
+    "short_description": "Office WiFi is not working",
+    "expected_classification": "Network",
+    "expected_assignment_group": "Network Support"
+  },
+  {
+    "short_description": "Outlook is not receiving mail",
+    "expected_classification": "Email",
+    "expected_assignment_group": "Email Support"
+  },
+  {
+    "short_description": "I need software installation",
+    "expected_classification": "Software",
+    "expected_assignment_group": "Application Support"
+  },
+  {
+    "short_description": "I have a problem with something else",
+    "expected_classification": "Default",
+    "expected_assignment_group": "Service Desk"
+  }
+]

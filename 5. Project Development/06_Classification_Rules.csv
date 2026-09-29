@@ -1,0 +1,7 @@
+rule_id,classification,keywords,category,subcategory,assignment_group,example
+R01,Access,"password|login|account|access|locked",Inquiry,Login/Access,IT Service Desk,"I forgot my password"
+R02,Hardware,"laptop|desktop|keyboard|mouse|printer",Hardware,Hardware Support,Hardware Support,"Laptop is not turning on"
+R03,Network,"wifi|wi-fi|network|vpn|internet",Network,Connectivity,Network Support,"Office WiFi is not working"
+R04,Email,"email|outlook|mailbox|mail",Software,Email,Email Support,"Outlook is not receiving mail"
+R05,Software,"software|application|install|installation|app",Software,Application,Application Support,"I need software installation"
+R06,Default,"",, ,Service Desk,"My issue does not match any rule"
